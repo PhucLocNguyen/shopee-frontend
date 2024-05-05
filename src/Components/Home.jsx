@@ -1,9 +1,9 @@
-import Home from "./Components/Box";
+import Box from "./Components/Box";
 
 export default function App() {
   return (
     <>
-      <Home/>
+      <Box/>
     </>
   )
 }
